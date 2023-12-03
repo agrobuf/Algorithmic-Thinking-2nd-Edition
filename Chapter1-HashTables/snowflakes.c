@@ -3,6 +3,10 @@ int are_identical(int snow1[], int snow2[]);
 int identical_right(int snow1[], int snow2[], int start);
 int identical_left(int snow1[], int snow2[], int start);
 
+int main() {
+
+}
+
 /*
 * snow1: a snowflake represented by an array of 6 numbers
 * snow2: a snowflake represented by an array of 6 numbers
